@@ -1,2 +1,2 @@
 # AIPs
-AOL Improvment Proposals
+AOL Improvement Proposals
