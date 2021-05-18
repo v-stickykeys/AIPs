@@ -4,6 +4,7 @@ title: AIP Purpose and Guidelines
 status: RFC
 type: Meta
 author: "@v-stickykeys"
+discussions-to: https://github.com/apesonline-gg/AIPs/issues/1
 created: 2021-05-14
 ---
 ## What is an AIP?
@@ -41,10 +42,10 @@ Required
 ---
 aip: <leave blank until assigned by an editor>
 title: <AIP title>
-author: <a list of the author's or authors' name(s) and/or username(s)>
+author: <a list of the author's or authors' name(s) and/or Github username(s)>
 discussions-to: <URL>
 status: Idea
-type: <Standards Track, Meta, or Informational>
+type: <one of Hack, Play, Earn, Meta>
 created: <date created on, in ISO 8601 (yyyy-mm-dd) format>
 ---
 ```
