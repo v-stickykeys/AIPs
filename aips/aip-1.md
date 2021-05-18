@@ -3,14 +3,14 @@ aip: 1
 title: AIP Purpose and Guidelines
 status: RFC
 type: Meta
-author: "@v-stickykeys"
+author: "val_#4036"
 discussions-to: https://github.com/apesonline-gg/AIPs/issues/1
 created: 2021-05-14
 ---
 ## What is an AIP?
 AIP stands for AOL Improvement Proposal. It's a concise specification for something new to be added to the Apes Online community.
 
-## Rationale
+## Purpose
 AIPs are the primary mechanism for proposing new features, for collecting community input, and for documenting design decisions.
 
 ## Types
@@ -42,7 +42,7 @@ Required
 ---
 aip: <leave blank until assigned by an editor>
 title: <AIP title>
-author: <a list of the author's or authors' name(s) and/or Github username(s)>
+author: <a list of the author's or authors' name(s) and/or Github username(s) and/or Discord ids>
 discussions-to: <URL>
 status: Idea
 type: <one of Hack, Play, Earn, Meta>
